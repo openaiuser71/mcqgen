@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term machine learning in 1959?,d: Warren McCulloch | c: Arthur Samuel | b: Walter Pitts | a: Donald Hebb,c
+What was the purpose of the 'learning machine' Cybertron developed by Raytheon Company in the early 1960s?,"a: To analyze weather patterns | d: To predict stock market trends | b: To recognize patterns in sonar signals, electrocardiograms, and speech patterns | c: To play chess",b
+"According to Tom M. Mitchell, what is the definition of machine learning algorithms?",d: A computer program that can recognize patterns in data | a: A computer program that can think like a human | b: A computer program that learns from experience and improves performance | c: A computer program that can predict the future accurately,b
+What is one of the objectives of modern-day machine learning?,b: To classify data based on developed models | d: To create artificial intelligence | a: To develop new computer hardware | c: To predict the weather accurately,b
+How did Arthur Samuel contribute to the history of machine learning?,b: By inventing a program to calculate winning chances in checkers | c: By developing the 'learning machine' Cybertron | a: By proposing the early mathematical models of neural networks | d: By writing a book on Learning Machines,b
